@@ -101,6 +101,30 @@ section
 }
 @media (max-width : 1440px)
 {
+    #sol
+    {
+        width: 50%;
+    }
+    #uvapassa
+    {
+        width: 50%;
+    }
+    #iron
+    {
+        width: 50%;
+    }
+    #strange
+    {
+        width: 30%;
+    }
+    #thor
+    {
+        width: 50%;
+    }
+    #gamora
+    {
+        width: 50%;
+    }
     section
     {
         width: 95vw;
@@ -129,6 +153,30 @@ section
 }
 @media(max-width : 1024px)
 {
+    #sol
+    {
+        width: 70%;
+    }
+    #iron
+    {
+        width: 60%;
+    }
+    #strange
+    {
+        width: 60%;
+    }
+    #thor
+    {
+        width: 60%;
+    }
+    #gamora
+    {
+        width:60% ;
+    }
+    #uvapassa
+    {
+        width: 70%;
+    }
     section
     {
         width: 150vw;
@@ -249,6 +297,10 @@ section
     margin-top: 1rem;
 }
 #ppo
+{
+    margin-bottom: 1rem;
+}
+#psol
 {
     margin-bottom: 1rem;
 }
