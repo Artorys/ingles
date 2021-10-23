@@ -101,6 +101,14 @@ section
 }
 @media (max-width : 1440px)
 {
+    #hulk
+    {
+        width: 50%;
+    }
+    #wakanda
+    {
+        width: 50%;
+    }
     #sol
     {
         width: 50%;
@@ -153,6 +161,14 @@ section
 }
 @media(max-width : 1024px)
 {
+    #hulk
+    {
+        width: 70%;
+    }
+    #wakanda
+    {
+        width: 80%;
+    }
     #sol
     {
         width: 70%;
@@ -302,5 +318,20 @@ section
 }
 #psol
 {
+    margin-bottom: 1rem;
+}
+#wanda
+{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+#capturada
+{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+#wakanda
+{
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
