@@ -223,3 +223,32 @@ section
 {
     width: 55%;
 }
+#strange
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#gamora
+{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+#thor
+{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+#iron
+{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+#uvapassa
+{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+#ppo
+{
+    margin-bottom: 1rem;
+}
