@@ -43,12 +43,12 @@ p
 .h1
 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     border: solid #ffd900a1;
     border-style:double;
     border-width: 0.5rem;
     border-image-repeat: round;
-    padding-left: 2rem;
+    padding-left: 1rem;
     line-height: 3.5rem;
     letter-spacing: 2px;
     line-height: 4rem;
