@@ -22,9 +22,8 @@ body
 .container1
 {
     display: flex;
-    background-image:url("/img/manoplaback.gif");
-    background-repeat: repeat;
-    background-position:-50%;
+    background-image:url("https://www.hqzona.com.br/wp-content/uploads/2019/03/infinity_stones_by_arturogc-dap3q5o-1024x576-1024x585.png");
+    background-position:110%;
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -81,6 +80,12 @@ h2
     margin-top: 1rem;
     position:relative;
 }
+#p1
+{
+    position: relative;
+    display: inline-flex;
+    text-align: center;
+}
 #youtube
 {
     width: 10%;
@@ -101,6 +106,14 @@ section
 }
 @media (max-width : 1440px)
 {
+    #wanda
+    {
+        width: 50%;
+    }
+    #capturada
+    {
+        width: 50%;
+    }
     #hulk
     {
         width: 50%;
@@ -161,6 +174,22 @@ section
 }
 @media(max-width : 1024px)
 {
+    .container1
+    {
+        background-position: 160%;
+    }
+    #thanosdiv
+    {
+        margin-top: 5rem;
+    }
+    #wanda
+    {
+        width: 70%;
+    }
+    #capturada
+    {
+        width: 70%;
+    }
     #hulk
     {
         width: 70%;
@@ -225,10 +254,6 @@ section
 }
 @media (max-width : 720px)
 {
-    #thanos
-    {
-        margin-top: 5rem;
-    }
     .avengers
     {
         width: 100%;
